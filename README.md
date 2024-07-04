@@ -1,3 +1,3 @@
 # landing-page
 
-Live preview
+Live preview: https://parik7.github.io/landing-page/
